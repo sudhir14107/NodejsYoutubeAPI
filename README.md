@@ -1,7 +1,11 @@
 # NodejsYoutubeAPI
 
-To use this App, It is necessary to you have an app at your Google Console and obtain the credentials from there and save 
+To use this App, It is necessary to have an app at your Google Console and obtain the credentials from there and save 
 the json file as credentials.json and move this file along with a video file and index.js in a dictory of your choice.
+
+To set up app at google consle follow the instruction given in the link :
+https://console.developers.google.com/flows/enableapi?apiid=youtube
+
 
 Comman to run:
 1. npm init
