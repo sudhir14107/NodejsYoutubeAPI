@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/sudhir14107/NodejsYoutubeAPI/issues"
   },
-  "homepage": "https://github.com/sudhir14107/NodejsYoutubeAPI#readme"
+  "homepage": "https://github.com/sudhir14107/NodejsYoutubeAPI#readme",
+  "dependencies": {
+    "bug-killer": "^4.4.4",
+    "lien": "^3.3.0",
+    "opn": "^5.4.0",
+    "pretty-bytes": "^5.1.0",
+    "r-json": "^1.2.9",
+    "youtube-api": "^2.0.10"
+  }
 }
