@@ -1,0 +1,19 @@
+{
+  "name": "nodejsyoutubeapi",
+  "version": "1.0.0",
+  "description": "\"This is Simple youtube api upload in node js\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudhir14107/NodejsYoutubeAPI.git"
+  },
+  "author": "Sudhir Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudhir14107/NodejsYoutubeAPI/issues"
+  },
+  "homepage": "https://github.com/sudhir14107/NodejsYoutubeAPI#readme"
+}
