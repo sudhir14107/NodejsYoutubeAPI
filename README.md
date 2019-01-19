@@ -8,3 +8,5 @@ Comman to run:
 2. npm i r-json lien opn bug-killer youtube-api pretty-bytes --save
 3. node index.js
 
+TO see the uploaded video go to https://www.youtube.com/my_videos?o=U .
+
